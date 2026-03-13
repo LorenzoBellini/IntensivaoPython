@@ -16,7 +16,7 @@ from groq import Groq
 
 
 # Criando o modelo de IA
-modelo_ia = Groq(api_key="sua_chave_api")
+modelo_ia = Groq(api_key="sua_chave_de_api_aqui")
 
 
 # Título do chatbot

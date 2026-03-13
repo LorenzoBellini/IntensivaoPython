@@ -1,7 +1,7 @@
 
 # lista
 lista_nomes = ["lira", "jorge", "gi", "renan"]
-lista_nomes.append("julia") # adiciona informação em uma lista
+lista_nomes.append("julia")  # adiciona informação em uma lista
 print(lista_nomes)
 
 primeiro_item = lista_nomes[0]
@@ -20,8 +20,8 @@ print(texto_mensagem)
 
 # lista + dicionario
 lista_mensagens = [
-    {"role": "user", "content": "Coe galera"}, 
-    {"role": "assistant", "content": "Resposta da IA"}, 
+    {"role": "user", "content": "Coe galera"},
+    {"role": "assistant", "content": "Resposta da IA"},
     {"role": "user", "content": "Tamo junto"}
     ]
 
